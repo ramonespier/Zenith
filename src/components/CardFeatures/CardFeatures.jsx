@@ -83,8 +83,6 @@ const promocoes = [
 ];
 
 
-
-
     return (
         <div className="flex flex-wrap justify-center container mx-auto gap-5 m-10" id="cards">
             {promocoes.map((promocao) => (
